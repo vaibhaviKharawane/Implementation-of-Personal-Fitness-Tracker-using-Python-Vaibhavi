@@ -23,7 +23,12 @@ FrameWork:
 Sklearn
 Deployement:
 Deployment using streamlit cloud
-![Screenshot (64)](https://github.com/user-attachments/assets/7b142ede-89b0-4d09-855d-c272f85b0c56)
+![Screenshot (65)](https://github.com/user-attachments/assets/1b48f648-c033-4042-8d4e-7552f33ac391)
+![Screenshot (68)](https://github.com/user-attachments/assets/4d8447de-58ba-44fd-b2d5-584de6c6ec3d)
+![Screenshot (69)](https://github.com/user-attachments/assets/57fbe77c-7a7f-492a-8d83-c51bd777e106)
+
+
+
 
 
 
